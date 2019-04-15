@@ -1,0 +1,42 @@
+body{
+	background-color: #42A3F3;
+	color: #fff;
+	font-family: arial;
+	text-align: center;
+}
+h1{
+	font-family: helvetica;
+	font-size: 500%;
+}
+input{
+	font-size: 15px;
+	padding: 15px 30px;
+	border:2px solid #1A92F7;
+	outline: none;
+	text-align: center;
+	color: #4F1919;
+}
+button{
+	background-color: #545353;
+	color: #fff;
+	font-size: 15px;
+	box-shadow: 0 0 12px 1px grey;
+	padding: 15px 20px;
+	outline: none;
+	border: none;
+	margin-top: 5px;
+}
+button:hover{
+	background-color: #3E3E3E;
+	box-shadow: 1px 0 10px 2px grey;
+}
+button:active{
+	background-color: #272727;
+}
+label{
+	font-weight: bold;
+}
+.information{
+	font-size: 30px;
+	font-weight: bolder;
+}
